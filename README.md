@@ -187,7 +187,7 @@ No license has been specified for this repository. Please contact the repository
 **Mehmet Alper Kocaoğlu**
 
 - GitHub: [@mehmetalper04](https://github.com/mehmetalper04)
-- Repository: [sinavgram.old](https://github.com/mehmetalper04/sinavgram.old)
+- Repository: [sinavgram.old](https://github.com/sinavgram/sinavgram.old)
 
 ---
 
