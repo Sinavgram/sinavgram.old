@@ -168,7 +168,7 @@ Platform-specific build requirements still apply. For example, iOS builds requir
 
 The client application communicates with the Sınavgram backend.
 
-- [Sınavgram Backend (Legacy)](https://github.com/mehmetalper04/sinavgram.backend.old)
+- [Sınavgram Backend (Legacy)](https://github.com/sinavgram/sinavgram.backend.old)
 
 ## Development Notes
 
